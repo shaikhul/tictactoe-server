@@ -9,7 +9,7 @@
 #### local development
 You need golang v1.20.
 * Download dependencies: `go mod download`
-* Build binary: `go build -o /bin/tictactoe-server cmd/main.go`
+* Build binary: `go build -o ./bin/tictactoe-server cmd/main.go`
 * Run server: `./bin/tictactoe-server`
 * Run tests: `$  go test -v ./...`
 
