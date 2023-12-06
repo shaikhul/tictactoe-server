@@ -1,6 +1,4 @@
-## [SUN Golang Developer Take Home Assessment](https://docs.google.com/document/d/1p4SVmM4MoViC0tyGicIzY1uOJSUGfRYTFwE4HhjnbYo/edit)
-
-Golang webserver implementation
+## TicTacToe webserver implementation
 
 ### Setup 
 #### Docker
